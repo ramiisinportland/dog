@@ -2,3 +2,15 @@ img {
     width: 200px;
     height: 300px;
 }
+.rosybrown {
+    background-color: rosybrown;
+  }
+
+  body {
+      background-color: #000;
+      color: #fff;
+  }
+
+  .red-background {
+    background-color: red;
+  }
